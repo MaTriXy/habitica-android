@@ -1263,4 +1263,13 @@
     <string name="spirituality">Spiritualiteit</string>
     <string name="task_summary">Samenvatting Taak</string>
     <string name="buy_for">Kopen voor</string>
+    <string name="monthly_backgrounds">Maandelijkse Achtergronden</string>
+    <string name="twenty_gems">20 Edelstenen</string>
+    <string name="plus_two_gems">+2 Edelstenen</string>
+    <string name="equipment">Uitrusting</string>
+    <string name="choose_member">Kies Lid</string>
+    <string name="armoire">Kabinet</string>
+    <string name="avatar_hair_colors">Haarkleuren</string>
+    <string name="x_gems">%d Edelstenen</string>
+    <string name="set">Verzameling</string>
 </resources>
