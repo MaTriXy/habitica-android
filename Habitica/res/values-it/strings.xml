@@ -1269,4 +1269,24 @@
     <string name="negative_sentence">negativo</string>
     <string name="standard_backgrounds">Sfondi Standard</string>
     <string name="monthly_backgrounds">Sfondi Mensili</string>
+    <plurals name="x_hours">
+        <item quantity="one">%d Ora</item>
+        <item quantity="many">%d Ore</item>
+        <item quantity="other">%d Ore</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="one">%d Giorno</item>
+        <item quantity="many">%d Giorni</item>
+        <item quantity="other">%d Giorni</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="one">%d Minuto</item>
+        <item quantity="many">%d Minuti</item>
+        <item quantity="other">%d Minuti</item>
+    </plurals>
+    <string name="faint_broken_gear_info">L\'Equipaggiamento rotto può essere riacquistato dal Mercato</string>
+    <string name="quest_accepted">Missione accettata!</string>
+    <string name="quest_rejected">Missione rifiutata</string>
+    <string name="quest_accept_error">Impossibile accettare la missione. Riprova.</string>
+    <string name="quest_reject_error">Impossibile rifiutare la missione. Riprova.</string>
 </resources>
